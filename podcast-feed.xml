@@ -1,0 +1,66 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ppg="http://bbc.co.uk/2009/01/ppgRss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<!-- By accessing this feed you are warranting that you are using these feeds in accordance with the BBC's Terms of Use http://www.bbc.co.uk/usingthebbc/terms-of-use/. If you are using these feeds for business or commercial purposes you warrant that you have obtained the necessary licence from the BBC and that BBC services and content are made available strictly in line with the BBC's Distribution Policy -->
+<channel>
+<title>Global News Podcast</title>
+<link>http://www.bbc.co.uk/programmes/p02nq0gn</link>
+<description>The dayâ€™s top stories from BBC News. Delivered twice a day on weekdays, daily at weekends</description>
+<itunes:summary>The dayâ€™s top stories from BBC News. Delivered twice a day on weekdays, daily at weekends</itunes:summary>
+<itunes:author>BBC World Service</itunes:author>
+<itunes:owner>
+<itunes:name>BBC</itunes:name>
+<itunes:email>RadioMusic.Support@bbc.co.uk</itunes:email>
+</itunes:owner>
+<itunes:new-feed-url>https://podcasts.files.bbci.co.uk/p02nq0gn.rss</itunes:new-feed-url>
+<language>en</language>
+<ppg:seriesDetails frequency="daily" daysLive="30"/>
+<ppg:systemRef systemId="pid.brand" key="p02nq0gn"/>
+<ppg:systemRef systemId="pid.genre" key="C00079"/>
+<ppg:network id="worldserviceradio" name="BBC World Service"/>
+<image>
+<url>http://ichef.bbci.co.uk/images/ic/3000x3000/p09kz1gg.jpg</url>
+<title>Global News Podcast</title>
+<link>http://www.bbc.co.uk/programmes/p02nq0gn</link>
+</image>
+<itunes:image href="http://ichef.bbci.co.uk/images/ic/3000x3000/p09kz1gg.jpg"/>
+<copyright>(C) BBC 2023</copyright>
+<pubDate>Thu, 18 May 2023 23:34:00 +0000</pubDate>
+<itunes:category text="News"/>
+<itunes:explicit>no</itunes:explicit>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<atom:link href="http://www.bbc.co.uk/programmes/p02nq0gn/episodes/downloads.rss" rel="self" type="application/rss+xml"/>
+<item>
+<title>Thousands still displaced in Italy's devastating floods</title>
+<description>6 months of rainfall fell in a day and a half, causing more than 20 rivers to burst their banks. Also: journalists are attacked during an Israeli ultranationalist march through occupied east Jerusalem, and why humans have been kissing for a lot longer than we originally thought.</description>
+<itunes:subtitle>6 months of rainfall fell in a day and a half</itunes:subtitle>
+<itunes:summary>6 months of rainfall fell in a day and a half, causing more than 20 rivers to burst their banks. Also: journalists are attacked during an Israeli ultranationalist march through occupied east Jerusalem, and why humans have been kissing for a lot longer than we originally thought.</itunes:summary>
+<pubDate>Thu, 18 May 2023 23:34:00 +0000</pubDate>
+<itunes:duration>1787</itunes:duration>
+<enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0fp6csy.mp3" length="14296000" type="audio/mpeg"/>
+<ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0fp6csy.mp3" length="14296000" type="audio/mpeg"/>
+<ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0fp6csy.mp3" length="14296000" type="audio/mpeg"/>
+<guid isPermaLink="false">urn:bbc:podcast:p0fp6djz</guid>
+<link>http://www.bbc.co.uk/programmes/p0fp6djz</link>
+<itunes:explicit>clean</itunes:explicit>
+<media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0fp6csy.mp3" fileSize="14296000" type="audio/mpeg" medium="audio" expression="full" duration="1787"/>
+<itunes:author>BBC World Service</itunes:author>
+<ppg:canonical>/programmes/p0fp6djz</ppg:canonical>
+</item>
+<item>
+<title>Russia launches ninth Kyiv air attack this month</title>
+<description>Ukraine's armed forces say almost all the missiles were shot down. Also: Rescue efforts continue in northern Italy after floods kill at least nine people, and Sting tells us his views on artificial intelligence in music.</description>
+<itunes:subtitle>Ukraine's armed forces say almost all the missiles were shot down</itunes:subtitle>
+<itunes:summary>Ukraine's armed forces say almost all the missiles were shot down. Also: Rescue efforts continue in northern Italy after floods kill at least nine people, and Sting tells us his views on artificial intelligence in music.</itunes:summary>
+<pubDate>Thu, 18 May 2023 14:47:00 +0000</pubDate>
+<itunes:duration>1866</itunes:duration>
+<enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0fp3b9d.mp3" length="14928000" type="audio/mpeg"/>
+<ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0fp3b9d.mp3" length="14928000" type="audio/mpeg"/>
+<ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0fp3b9d.mp3" length="14928000" type="audio/mpeg"/>
+<guid isPermaLink="false">urn:bbc:podcast:p0fp3fsn</guid>
+<link>http://www.bbc.co.uk/programmes/p0fp3fsn</link>
+<itunes:explicit>clean</itunes:explicit>
+<media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0fp3b9d.mp3" fileSize="14928000" type="audio/mpeg" medium="audio" expression="full" duration="1866"/>
+<itunes:author>BBC World Service</itunes:author>
+<ppg:canonical>/programmes/p0fp3fsn</ppg:canonical>
+</item>
+</channel>
+</rss>

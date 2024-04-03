@@ -1,0 +1,29 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>Политика</title>
+<link>https://rss.politico.com/politics-news.xml</link>
+<description>Вести, анализи и мислења од Политико</description>
+<lastBuildDate>Sun, 05 Mar 2023 07:01:00 EST</lastBuildDate>
+<item>
+<title>Сцени од CPAC 2023
+</title>
+<link>https://www.politico.com/news/2023/03/05/cpac-photos-2023-maga-00085521</link>
+<description>
+Движењето МАГА се појави со црвени шапки, копчиња со лицето на поранешниот претседател Доналд Трамп и желба да го видат човекот околу кој сега се врти конференцијата.
+</description>
+<guid isPermaLink="false">003434000186-aed3-d9f3-abef-afd7d9850001</guid>
+<pubDate>Sun, 05 Mar 2023 07:01:00 EST</pubDate>
+<media:content type="image/jpeg" url="https://static.politico.com/70/9d/4f032d65408bbaabe18c0b9d1635/main-cpacphotos-1.jpg">
+<media:title>Five people with shirts spelling out "TRUMP" attend CPAC at the Gaylord National Resort and Convention Center in National Harbor, Md. on March 2, 2023.
+Пет лица со маици со иницијали "ТРАМП" на CPAC во Гејлорд Национал Ресорт и Конвенционалниот центар во Мериленд на 2 март 2023 година.
+</media:title>
+<media:thumbnail url="https://static.politico.com/70/9d/4f032d65408bbaabe18c0b9d1635/main-cpacphotos-1.jpg"/>
+</media:content>
+<dc:creator>Петар Петковски</dc:creator>
+<dc:contributor>Перо Петровски</dc:contributor>
+<content:encoded>
+<![CDATA[ Ова треба да биде напишано на македонски јазик. ]]>
+</content:encoded>
+</item>
+</channel>
+</rss>

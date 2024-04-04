@@ -31,7 +31,7 @@
 <item>
 <title>Илјадници се уште преместени во ужасните поплави во Италија</title>
 <description>6 месеци дожд паднаа за ден и пол, предизвикувајќи поплави на повеќе од 20 реки. Исто така: новинарите се нападнати за време на израелски ултранационалистички марш низ окупиран Источен Јерусалим, и зошто луѓето се бакнуваат подолго време од што првично сметавме.</description>
-<itunes:subtitle6 месеци дожд паднаа за ден и п</itunes:subtitle>
+<itunes:subtitle>6 месеци дожд паднаа за ден и п</itunes:subtitle>
 <itunes:summary>6 months of rainfall fell in a day and a half, causing more than 20 rivers to burst their banks. Also: journalists are attacked during an Israeli ultranationalist march through occupied east Jerusalem, and why humans have been kissing for a lot longer than we originally thought.</itunes:summary>
 <pubDate>Thu, 18 May 2023 23:34:00 +0000</pubDate>
 <itunes:duration>1787</itunes:duration>
@@ -44,23 +44,6 @@
 <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0fp6csy.mp3" fileSize="14296000" type="audio/mpeg" medium="audio" expression="full" duration="1787"/>
 <itunes:author>BBC World Service</itunes:author>
 <ppg:canonical>/programmes/p0fp6djz</ppg:canonical>
-</item>
-<item>
-<title>Russia launches ninth Kyiv air attack this month</title>
-<description>Ukraine's armed forces say almost all the missiles were shot down. Also: Rescue efforts continue in northern Italy after floods kill at least nine people, and Sting tells us his views on artificial intelligence in music.</description>
-<itunes:subtitle>Ukraine's armed forces say almost all the missiles were shot down</itunes:subtitle>
-<itunes:summary>Ukraine's armed forces say almost all the missiles were shot down. Also: Rescue efforts continue in northern Italy after floods kill at least nine people, and Sting tells us his views on artificial intelligence in music.</itunes:summary>
-<pubDate>Thu, 18 May 2023 14:47:00 +0000</pubDate>
-<itunes:duration>1866</itunes:duration>
-<enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0fp3b9d.mp3" length="14928000" type="audio/mpeg"/>
-<ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0fp3b9d.mp3" length="14928000" type="audio/mpeg"/>
-<ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0fp3b9d.mp3" length="14928000" type="audio/mpeg"/>
-<guid isPermaLink="false">urn:bbc:podcast:p0fp3fsn</guid>
-<link>http://www.bbc.co.uk/programmes/p0fp3fsn</link>
-<itunes:explicit>clean</itunes:explicit>
-<media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0fp3b9d.mp3" fileSize="14928000" type="audio/mpeg" medium="audio" expression="full" duration="1866"/>
-<itunes:author>Перо Комбањеро</itunes:author>
-<ppg:canonical>/programmes/p0fp3fsn</ppg:canonical>
 </item>
 </channel>
 </rss>
